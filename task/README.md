@@ -15,7 +15,7 @@ Runs directly in any CLI (PowerShell, CMD, Linux Terminal)
 # How to Run:
 
 1. Clone the repo
-git clone https://github.com/bhagwanitanu/calculator task.py.git
+git clone https://github.com/bhagwanitanu-debug/calculator task.py.git
 
 2. Navigate to the folder
 cd  calculator task.py
@@ -41,3 +41,4 @@ Error logging and debugging mode
 
 📜 License
 This project is licensed under the MIT License.
+
