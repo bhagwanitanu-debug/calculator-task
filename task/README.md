@@ -43,3 +43,7 @@
     - This project is licensed under the MIT License.
 
 
+# 👤 Author
+
+        Tanu Bhagwani
+        Intern | Python Learner | Tech Enthusiast
